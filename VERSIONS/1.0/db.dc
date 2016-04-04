@@ -1,0 +1,10 @@
+{
+    aaa = {
+        username = {authentication = 'password',authorization = {'*'}},
+    },
+	driveNums = {'_1'},
+	DdriveNums = {'_1'},
+	blockInfo = {
+        _1 = {1,1,1,'minecraft:air','minecraft:air'}
+    },
+}

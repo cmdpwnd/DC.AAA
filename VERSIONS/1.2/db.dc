@@ -1,0 +1,11 @@
+{
+    alias = {
+        aliasName = 'minecraftName'
+    },
+    aaa = {
+        username = {authentication = 'password',authorization = {'*'}},
+    },
+    blockInfo = {
+        _1 = {0,5,0,'minecraft:air','minecraft:air',false,false},
+    },
+}

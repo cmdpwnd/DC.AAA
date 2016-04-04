@@ -1,0 +1,8 @@
+changelog:
++: bug fix: resolves issue #1
++: features: [
+    muteable drives
+    multiple alias support
+    simplified database configuration
+   ]
++: improved performance
